@@ -19,12 +19,6 @@ The following hybrid quantum–classical architectural design is employed [paper
 - **Code:** [`FL-pennygpu-no-mpi.ipynb`](FL-pennygpu-no-mpi.ipynb)
 
 
-## 🧪 Next Steps
-1. **Resolve the MPI-cluster FL quantum-classical code version** to enable distributed training across multiple clients while preserving data privacy and considering the inter-node communication.  
-2. **Reproduce the experiments on a real quantum machine** to evaluate performance under realistic quantum hardware constraints.
-
----
-
 
 
 
